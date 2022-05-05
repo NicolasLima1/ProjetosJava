@@ -1,4 +1,5 @@
-package PesoIMC;
+package PesoImc;
+
 import java.util.Scanner;
 
 public class Imc {
